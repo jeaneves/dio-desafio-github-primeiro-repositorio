@@ -1,2 +1,5 @@
 # dio-desafio-github-primeiro-repositorio
-curso dio santander full stack
+repositorio criado para o desafio de projeto.
+
+## links uteis 
+[Sintaxe básica mark down](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
